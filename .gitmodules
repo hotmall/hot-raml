@@ -1,0 +1,9 @@
+[submodule "go-raml"]
+	path = go-raml
+	url = https://github.com/hotmall/go-raml.git
+[submodule "go-bindata"]
+	path = go-bindata
+	url = https://github.com/go-bindata/go-bindata.git
+[submodule "hot"]
+	path = hot
+	url = https://github.com/hotmall/hot.git
